@@ -121,6 +121,26 @@ namespace Conditionals
                     break;
             }
 
+            //// example of nesting with if else
+            //// if (jordanHunger = true)
+            //{
+            //    if (funds>20)
+            //    {
+            //        // Joradn eats a lot
+            //    }
+            //    else
+            //    {
+            //        //still hungry
+            //    }
+            //}
+            //else
+            //{
+            //    //Jordan doesn't complain
+            //}
+
+
+
+
         }
 
 
